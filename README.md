@@ -1,3 +1,4 @@
+
 # 🚀 Gerador de Sites Automático
 
 Bem-vindo ao **Gerador de Sites Automático**!  
@@ -30,4 +31,50 @@ Um layout artístico e diferenciado para quem deseja sair do comum. Ideal para a
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/edsonjr2/gerador-de-sites-automatico.git
+   git clone https://github.com/seuusuario/gerador-de-sites-automatico.git
+   ```
+2. Instale as dependências (caso necessário):
+   ```bash
+   npm install
+   # ou
+   pip install -r requirements.txt
+   ```
+3. Execute a aplicação:
+   ```bash
+   npm run dev
+   # ou
+   python app.py
+   ```
+4. Na interface:
+   - Escolha o **template desejado**
+   - Descreva como você quer que o site fique
+   - Clique em **Gerar Site**
+
+5. Seu site estará pronto para visualização e download em segundos!
+
+## 📤 Publicação
+
+Você pode optar por publicar automaticamente seu site no:
+- GitHub Pages
+- GitLab Pages
+
+Basta conectar sua conta e autorizar o acesso!
+
+## 💡 Exemplo de Uso
+
+**Descrição fornecida:**
+> Quero um site empresarial para minha empresa de tecnologia que ofereça serviços de desenvolvimento de software, com uma seção de contato, equipe e portfólio de projetos.
+
+✅ Resultado: Um site completo com design profissional, pronto para ser publicado.
+
+## 📩 Contribuindo
+
+Sinta-se à vontade para abrir issues, sugerir melhorias ou enviar pull requests! Toda ajuda é bem-vinda.
+
+## 📄 Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE).
+
+---
+
+Desenvolvido com ❤️ por [Seu Nome](https://github.com/seuusuario)
