@@ -77,4 +77,4 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ---
 
-Desenvolvido com ❤️ por [Seu Nome](https://github.com/seuusuario)
+Desenvolvido com ❤️ por [Seu Nome](https://github.com/edsonjr2)
