@@ -31,7 +31,7 @@ Um layout artístico e diferenciado para quem deseja sair do comum. Ideal para a
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/gerador-de-sites-automatico.git
+   git clone https://github.com/edsonjr2/gerador-de-sites-automatico.git
    ```
 2. Instale as dependências (caso necessário):
    ```bash
@@ -71,10 +71,7 @@ Basta conectar sua conta e autorizar o acesso!
 
 Sinta-se à vontade para abrir issues, sugerir melhorias ou enviar pull requests! Toda ajuda é bem-vinda.
 
-## 📄 Licença
 
-Este projeto está licenciado sob a [MIT License](LICENSE).
 
----
 
-Desenvolvido com ❤️ por [Seu Nome](https://github.com/edsonjr2)
+Desenvolvido com ❤️ por [edsonjr2](https://github.com/edsonjr2)
